@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-![Rock, Paper, Scissors](Screenshot 2023-10-09 170022.png)
+![Rock, Paper, Scissors](screenshot.png)
 
 This is a simple web-based Rock, Paper, Scissors game implemented using HTML, CSS, and JavaScript. It allows users to play the classic game against the computer.
 
